@@ -99,16 +99,23 @@
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EngMajdSayedTaha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngMajdSayedTaha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=EngMajdSayedTaha&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Majd's GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngMajdSayedTaha&layout=compact&theme=radical&hide_border=true" alt="Majd's Top Languages" height="180" />
 
 </div>
 
 <div align="center">
+
+### 🏆 Streak & Contributions
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EngMajdSayedTaha&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ### 🐍 My Contribution Snake
 

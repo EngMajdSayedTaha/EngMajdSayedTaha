@@ -9,7 +9,7 @@
   
 ## 👋 Hi there, I'm Majd! Welcome to my GitHub Profile
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Software+Engineer+with+5%2B+Years+Experience;Angular+%26+.NET+Specialist;AI+%26+Automation+Enthusiast;Content+Creator+%40majdst_codes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Software+Engineer;Content+Creator;AI+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -46,6 +46,8 @@
 
 ### Database & Tools
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -80,8 +82,14 @@
 <a href="https://www.tiktok.com/@majdst_codes" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-@majdst_codes-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
 </a>
+<a href="https://www.instagram.com/majdst_codes" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@majdst_codes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 <a href="https://www.linkedin.com/in/majd-sayed-taha" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-majd--sayed--taha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://majdsayedtaha.github.io/portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-majdsayedtaha.github.io-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 
 **📺 Sharing coding insights, tutorials, and tech tips!**  
@@ -102,9 +110,9 @@
 
 <div align="center">
 
-### 🐍 Contribution Graph
+### 🐍 My Contribution Snake
 
-![Snake animation](https://github.com/EngMajdSayedTaha/EngMajdSayedTaha/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](./github-contribution-grid-snake.svg)
 
 </div>
 
@@ -158,6 +166,8 @@ const majdProfile = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majd-sayed-taha)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@majdst_codes)
 [![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@majdst_codes)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majdst_codes)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://majdsayedtaha.github.io/portfolio)
 
 </div>
 

@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-💼 **Full Stack Developer** at **Smart Works ** (Abu Dhabi)  
+💼 **Full Stack Developer** at **Smart Works** (Abu Dhabi)  
 🎯 Specializing in **Angular** and **.NET** with **5+ years** of professional experience  
 🤖 Building AI-driven solutions that **reduced manual processes by 40%**  
 🎥 Tech Content Creator on **YouTube** & **TikTok** as **@majdst_codes**  
@@ -64,7 +64,7 @@
 
 | 🏢 Company | 👨‍💻 Role | 🎯 Key Achievements | 📅 Duration |
 |:----------:|:----------|:--------------------|:-----------:|
-| **Smart Works ** | Full Stack Developer | • Developed ERP/CRM systems using Angular & .NET<br>• Implemented AI chatbots & automation (40% efficiency gain)<br>• Architected microservices with Clean Architecture<br>• Led AI-driven solutions for business automation | 2020 - Present |
+| **Smart Works** | Full Stack Developer | • Developed ERP/CRM systems using Angular & .NET<br>• Implemented AI chatbots & automation (40% efficiency gain)<br>• Architected microservices with Clean Architecture<br>• Led AI-driven solutions for business automation | 2020 - Present |
 
 </div>
 
@@ -136,7 +136,7 @@
 ```typescript
 const majdProfile = {
   role: "Full Stack Developer",
-  company: "Smart Works ",
+  company: "Smart Works",
   location: "Abu Dhabi 🇦🇪",
   experience: "5+ years",
   specialties: ["Angular", ".NET", "Microservices", "AI Integration"],

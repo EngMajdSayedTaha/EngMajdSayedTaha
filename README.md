@@ -58,19 +58,6 @@
 
 ---
 
-## 💼 Professional Experience
-
-<div align="center">
-
-| 🏢 Company | 👨‍💻 Role | 🎯 Key Achievements | 📅 Duration |
-|:----------:|:----------|:--------------------|:-----------:|
-| **Smart Works** | Full Stack Developer | • Developed enterprise ERP/CRM systems using Angular & .NET Core with microservices architecture<br>• Implemented AI chatbots & intelligent automation reducing manual processes by 40%<br>• Architected scalable microservices using Clean Architecture and CQRS patterns<br>• Led migration of legacy monolithic applications to cloud-native microservices (Azure)<br>• Designed and deployed RESTful APIs serving 10,000+ daily active users<br>• Mentored junior developers and conducted code reviews ensuring best practices | Oct 2024 - Present |
-| **YSSR** | Full Stack Developer | • Built responsive web applications using Angular 15+ and .NET 6 Web APIs<br>• Implemented real-time features using SignalR increasing user engagement by 35%<br>• Optimized database queries and indexing strategies reducing page load time by 50%<br>• Integrated third-party APIs and payment gateways (Stripe, PayPal) for e-commerce solutions<br>• Developed automated testing framework with 85% code coverage using xUnit and Jasmine | Mar 2024 - Oct 2024 |
-| **RemoColla Ltd** | Full Stack Developer | • Designed and developed custom CRM platform handling 5,000+ customer records<br>• Created reusable Angular component library reducing development time by 30%<br>• Implemented secure authentication & authorization using JWT and OAuth 2.0<br>• Built RESTful APIs with ASP.NET Core, Entity Framework, and SQL Server<br>• Collaborated with cross-functional teams using Agile/Scrum methodologies<br>• Deployed applications to Azure App Service with CI/CD pipelines using Azure DevOps | Jan 2022 - Mar 2024 |
-| **Freelance** | Junior Front-end Developer | • Developed responsive websites and landing pages using HTML5, CSS3, and JavaScript<br>• Built interactive user interfaces with Angular and TypeScript for small businesses<br>• Implemented responsive designs ensuring cross-browser compatibility and mobile-first approach<br>• Collaborated directly with clients to gather requirements and deliver tailored solutions<br>• Managed multiple projects simultaneously meeting tight deadlines and client expectations | Jan 2021 - Jan 2022 |
-
-</div>
-
 ---
 
 ## 🎥 Content Creation

@@ -25,9 +25,8 @@
 
 ---
 
----
 ## 🛠️ Technical Skills
-
+---
 <div align="center">
 
 ### Frontend Development

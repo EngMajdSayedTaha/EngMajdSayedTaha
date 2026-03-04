@@ -85,9 +85,6 @@
 **🎓 Helping developers level up their skills**
 
 </div>
----
-
----
 
 ---
 
